@@ -2,7 +2,7 @@
 const ejercicios = {
   
   //ejercicio 01
-  //contarCadena: (cadena="") => { (!cadena) ? console.log(`no hay nada escrito`) : console.log(`la cadena ${cadena}, tiene ${cadena.length} caracteres`)},
+  contarCadena: (cadena="") => { (!cadena) ? console.log(`no hay nada escrito`) : console.log(`la cadena ${cadena}, tiene ${cadena.length} caracteres`)},
   
   //ejercico 02
   //cortarCadena: (cadena="", longitud=undefined) => { (!cadena) ? console.log(`no hay nada escrito`) : console.log(cadena.slice(0,longitud))},
